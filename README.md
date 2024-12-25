@@ -30,14 +30,14 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/venky-1710/chatbot.git
+cd chatbot
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+venv\Scripts\activate
 ```
 
 ### 3. Install Required Packages
@@ -90,4 +90,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
